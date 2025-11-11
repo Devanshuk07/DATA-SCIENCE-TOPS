@@ -1,0 +1,9 @@
+<html>
+<head>
+<title> flipkart analysis </title>
+</head>
+<body>
+<center>HERE IS THE GRAPH OF PRODUTS SOLD ON FLIPKART </center>
+<img src="flipkart-product.png" width="500" height="400">
+</body>
+</html>
