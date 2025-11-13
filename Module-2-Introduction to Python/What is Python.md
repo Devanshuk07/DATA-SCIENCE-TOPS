@@ -2,61 +2,37 @@
 
 
 
-##### ***-Python is an open source user friendly language.***
-
-##### ***-easy to learn***
-
-##### ***-python is used to create web apps , website ,desktop apps.***
+#### -You can download Python from Python.org.
 
 
 
-##### example- Django (web apps, websites)
-
-##### example- tkinter (desktop apps)
+#### IDE(integrated device environment)is used in python.
 
 
 
+##### 1\) ANACONDA (only basically for python)
 
+##### 2\) VS CODE(To make script in any language)
 
-# How to install python?
-
-
-
-##### -go to crome search for its official website.
-
-##### &nbsp;	https://www.python.org/
-
-##### -from where go to DOWNLOAD and download the latest version of the python.
+##### 3\) jupyter (extension- .ipynb) .ipynb stands for python note-book.
 
 
 
-# Advantages of Python
+# How to install VS CODE(Visual studio code) ?
 
 
 
-##### \- python is easy to learn
+##### -TYPE VISUAL STUDIO CODE on google then download .
 
-##### \- python syntax is easy and understandable
+##### -Then for to use AI go to EXTENSION on left side of app.
 
-##### \- python is interpretery based language  which convert high level language to machine understand language
+##### -Then type TABNINE that is used as AI.
 
-##### \- python is basically used for AI , Machine Learning , Deep learning, OS, Robotics, Nero Networks, Cloud Computing.
+##### 
 
-
-
-# Note:-
+# How to Install Jupyter	 ?
 
 
 
-##### You can run Python in CMD(command Prompt) it will be run under REPL Format.
-
-##### &nbsp;	REPL means READ EVALUATE PRINT \& LOOP.
-
-##### It will not create any script that is the only thing in CMD.
-
-##### So you will not be able to do any rewrite or improvement in this any further future due to- NO SCRIPT.
-
-
-
-
+\-
 
