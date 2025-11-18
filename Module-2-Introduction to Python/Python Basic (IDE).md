@@ -42,7 +42,7 @@
 
 ##### -Jupyter create file in .ipynb(i python notebook).
 
-&nbsp;
+ 
 
 # what is PIP ?
 
@@ -84,5 +84,37 @@
 
 ##### 
 
-##### 
+# What is operator in Python ?
+
+
+
+##### -operator is used to operand some actions there we used operator.
+
+##### -Types of operator- 
+
+##### 1)Arithmetic operator--(multi,add,sub,div)
+
+##### 2)assignment operator--(to assign value to variable by =,==.!=(not equal to))
+
+##### 3)logical operator--(and , or , not)
+
+##### 4)Identity operator
+
+##### 5)bitwise operator
+
+##### 6)membership operator.
+
+
+
+# Comments in python ?
+
+
+
+##### -Comment is disable code from output.
+
+##### -Comment is provided by #-sign.
+
+
+
+
 
