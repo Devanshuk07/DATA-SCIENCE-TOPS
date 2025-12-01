@@ -1,6 +1,6 @@
 #assignment operator is used to assign any value in variables.
 #examples =(simply assign value), ==(for true & false), !=(not equal to).
-#arithmetic examples = +=, -=, *=, /=,
+#arithmetic examples = +=, -=, *=, /=,%= ,**=
 
 a=20
 b=50

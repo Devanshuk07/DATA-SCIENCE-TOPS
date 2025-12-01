@@ -2,6 +2,7 @@
 # examples= (and), (or), (not) ;
 from urllib3.util.connection import allowed_gai_family
 
+
 a=10
 b="deva"
 print(a<=5 or b=="deva") #or means any 1 condition must be true
@@ -9,6 +10,12 @@ print(a<=5 or b=="deva") #or means any 1 condition must be true
 a=10
 b="deva"
 print(a>=10 and b=="deva") #and means both condition must be true
+
+
+#logic or not logical operator given below
+print(not False)  #True
+print(not True)  #False
+
 
 a=10
 b=20
