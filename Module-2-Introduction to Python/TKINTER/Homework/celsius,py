@@ -1,0 +1,19 @@
+import tkinter as tk
+import tkinter.messagebox as messagebox
+def stor():
+    c=int(entry1.get())
+    f=(c*9/5)+32
+    return tk.messagebox.showinfo("IN FAHRENHEIT TEMP IS",f"IN FAHRENHEIT TEMP IS :{f}")
+root=tk.Tk()
+root.title("TEMP")
+root.geometry("500x500")
+
+label1=tk.Label(root, text="ENTER TEMPERATURE IN CELSIUS :")
+label1.pack(pady=5)
+entry1=tk.Entry(root)
+entry1.pack(pady=5)
+
+button=tk.Button(root, command=stor,text="IN FAHRENHEIT")
+button.pack(pady=5)
+
+root.mainloop()
