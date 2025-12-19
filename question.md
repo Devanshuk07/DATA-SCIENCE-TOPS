@@ -1,7 +1,7 @@
 🔹 PART B: TKINTER (GUI PROGRAMMING) (1–70)
 
 1. Write a program to declare two variables and print their sum.>>>>
-2. Create variables of type int, float, string, and boolean and print their types.------
+2. Create variables of type int, float, string, and boolean and print their types.>>>>>>>
 3. Write a program to swap two numbers using a third variable.>>>>>>
 4. Swap two numbers without using a third variable.>>>>>>>
 5. Store your name and age in variables and print a formatted message.>>>>>>
@@ -11,9 +11,9 @@
 9. Store marks of 5 subjects in variables and calculate total and average.>>>>>>
 10. Write a program to take user input and display it using variables.>>>>>
 11. Create a variable and update its value at runtime.-------
-12. Write a program to check the data type of a user-entered value.------
-13. Assign multiple values to multiple variables in a single line.-----
-14. Write a program to demonstrate variable reassignment.------
+12. Write a program to check the data type of a user-entered value.>>>>>>>>
+13. Assign multiple values to multiple variables in a single line.>>>>>>>
+14. Write a program to demonstrate variable reassignment.>>>>>>>
 15. Create variables for length and breadth and find the perimeter.>>>>>>
 16. Write a program to calculate simple interest using variables.>>>>>>
 17. Store a number and print its square and cube.>>>>>>
@@ -24,17 +24,17 @@
 22. Write a program to demonstrate relational operators.>>>>>>>
 23. Write a program to demonstrate logical operators.>>>>>>>
 24. Check whether a number is even or odd using operators.>>>>>>
-25. Write a program to check if a number is positive, negative, or zero.-----
+25. Write a program to check if a number is positive, negative, or zero.>>>>>>>>>
 26. Write a program to compare two numbers using comparison operators.>>>>>>
 27. Demonstrate assignment operators with examples.>>>>>>>
 28. Write a program to calculate power using the exponent operator.>>>>>>
 29. Use modulus operator to find remainder.>>>>>>>
 30. Write a program to check if a number is divisible by 5 and 11.>>>>>>>
 31. Write a program using and, or, and not operators.>>>>>>>>>>
-32. Write a program to find the largest of three numbers using operators.-----
+32. Write a program to find the largest of three numbers using operators.>>>>>>
 33. Write a program to check whether a year is a leap year.>>>>>>
-34. Write a program using bitwise operators.-----
-35. Write a program to demonstrate identity operators.------
+34. Write a program using bitwise operators.\&\&\&\&\&\&\&\&\&\&\&
+35. Write a program to demonstrate identity operators.\&\&\&\&\&\&\&\&\&\&\&\&\&
 36. Write a program to demonstrate membership operators.>>>>>>>
 37. Check whether a character is a vowel or consonant using operators.>>>>>>>
 38. Write a program to calculate gross salary using operators.>>>>>>>
@@ -46,17 +46,17 @@
 
 43.Write a function to find the square of a number.>>>>>>
 
-44.Write a function to check whether a number is prime.-------loop
+44.Write a function to check whether a number is prime.\&\&\&\&\&\&\&\&
 
-45.Write a function to find factorial of a number.------loop
+45.Write a function to find factorial of a number.\&\&\&\&\&\&\&\&\&\&
 
-46.Write a function to check whether a number is palindrome.----loop
+46.Write a function to check whether a number is palindrome.\&\&\&\&\&\&\&\&\&\&
 
 47.Write a function to find the maximum of two numbers.>>>>>>>>
 
 48.Write a function to calculate simple interest.>>>>>>
 
-49.Write a function with no arguments and no return value.------
+49.Write a function with no arguments and no return value.\&\&\&\&\&\&\&
 
 50.Write a function with arguments and return value.>>>>>>
 
@@ -68,7 +68,7 @@
 
 54.Write a function to reverse a number.>>>>>
 
-55.Write a function to count vowels in a string.-----loop
+55.Write a function to count vowels in a string.>>>>>>
 
 56.Write a function to check whether a number is Armstrong.----loop
 
@@ -90,13 +90,13 @@
 
 65.Write a function using default arguments.------
 
-66.Write a function using keyword arguments.--------
+66.Write a function using keyword arguments.>>>>>>>>
 
 67.Write a function to calculate compound interest.>>>>>>>
 
-68.Write a function to count digits in a number.------
+68.Write a function to count digits in a number.>>>>>>
 
-69.Write a function to sort a list.------
+69.Write a function to sort a list.\&\&\&\&\&\&\&\&
 
 70.Write a function to calculate grade based on marks.>>>>>
 
@@ -118,7 +118,7 @@
 
 80.Create a Tkinter form with Name and Email fields.>>>>>>>
 
-81.Write a Tkinter program to display an image.------
+81.Write a Tkinter program to display an image.\&\&\&\&\&\&
 
 82.Create a Tkinter program using RadioButtons.-------
 
